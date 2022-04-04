@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/long-ho-portfolio/static/css/main.e62ba33a.css",
+    "main.js": "/long-ho-portfolio/static/js/main.6e371997.js",
+    "static/media/data.png": "/long-ho-portfolio/static/media/data.1b9a5180b75c763581e2.png",
+    "static/media/cloud.png": "/long-ho-portfolio/static/media/cloud.8fe88c6535bd597dce53.png",
+    "static/media/frontend.png": "/long-ho-portfolio/static/media/frontend.f09916a6a2eb887143a9.png",
+    "static/media/flask.png": "/long-ho-portfolio/static/media/flask.b111b3f2cfbc0c28db22.png",
+    "static/media/backend.png": "/long-ho-portfolio/static/media/backend.7e3109ec46f416746716.png",
+    "static/media/logo.png": "/long-ho-portfolio/static/media/logo.7db29165c2fa04c034ba.png",
+    "static/media/pandas.png": "/long-ho-portfolio/static/media/pandas.a705425bd546f58dda11.png",
+    "static/media/sql.png": "/long-ho-portfolio/static/media/sql.a6ca00a50e58acc16089.png",
+    "index.html": "/long-ho-portfolio/index.html",
+    "main.e62ba33a.css.map": "/long-ho-portfolio/static/css/main.e62ba33a.css.map",
+    "main.6e371997.js.map": "/long-ho-portfolio/static/js/main.6e371997.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e62ba33a.css",
+    "static/js/main.6e371997.js"
+  ]
+}
