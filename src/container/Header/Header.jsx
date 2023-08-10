@@ -43,10 +43,8 @@ const Header = () => (
         className="app__header-img"
       >
           <h>
-            Monash<br/>
-            Freshman<br/>
             Software<br/>
-            Developer
+            Engineer
           </h>
       </motion.div>
 
